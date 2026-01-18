@@ -1,0 +1,6 @@
+# Required
+Pillow>=9.0.0
+
+# Recommended - provides more accurate MIME type detection
+# On Windows, may require additional setup (libmagic)
+python-magic>=0.4.27
